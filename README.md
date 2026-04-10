@@ -26,7 +26,7 @@ The program answers the following questions required by FreeCodeCamp:
 ## Project Files
 
 - `demographic_data_analyzer.py` → main solution file
-- `adult.data.csv` → dataset used for the analysis
+- `adult.data.csv` → dataset used for the analysis / The dataset (adult.data.csv) is included in this repository.
 - `main.py` → optional file for local testing
 
 ## How to Use

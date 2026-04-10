@@ -1,4 +1,4 @@
 from demographic_data_analyzer import calculate_demographic_data
 
-result = calculate_demographic_data()
-print(result)
+if __name__ == "__main__":
+    print(calculate_demographic_data())

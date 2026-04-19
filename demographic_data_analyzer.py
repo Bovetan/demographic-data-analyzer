@@ -59,7 +59,7 @@ def calculate_demographic_data(print_data=True):
         (df["native-country"] == "India") & (df["salary"] == ">50K")
     ]["occupation"].value_counts().idxmax()
 
-    # Retornar los resultados en el formato esperado por FreeCodeCamp
+    # Retornar los resultados 
     return {
         "race_count": race_count,
         "average_age_men": float(average_age_men),
